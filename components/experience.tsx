@@ -15,22 +15,6 @@ const experiences = [
     description: "Using PHP to develop online English teaching management software.",
     skills: ["PHP", "Vue.js"]
   },
-  // {
-  //   id: 2,
-  //   company: "Digital Solutions Ltd.",
-  //   position: "Frontend Developer",
-  //   period: "Mar 2020 - Dec 2021",
-  //   description: "Developed responsive web interfaces for various client projects. Implemented modern frontend practices and optimized application performance, resulting in a 25% improvement in load times.",
-  //   skills: ["JavaScript", "React", "CSS", "Webpack"]
-  // },
-  // {
-  //   id: 3,
-  //   company: "Startup Innovations",
-  //   position: "Junior Web Developer",
-  //   period: "Jun 2018 - Feb 2020",
-  //   description: "Assisted in the development of web applications and maintained existing codebases. Participated in code reviews and implemented UI components based on design specifications.",
-  //   skills: ["HTML", "CSS", "JavaScript", "jQuery"]
-  // }
 ];
 
 export default function Experience() {

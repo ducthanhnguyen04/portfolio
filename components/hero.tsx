@@ -7,7 +7,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { motion } from "framer-motion";
 import { useTranslation } from "@/lib/language-provider";
-import Avatar from "../assets/images/avatar.jpg";
+import Avatar from "../assets/images/ndt.png";
 
 export default function Hero() {
   const { t } = useTranslation();
@@ -86,7 +86,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 1.4 }}
         >
           <motion.div whileHover={{ scale: 1.2, rotate: 5 }}>
-            <Link href="https://github.com/nguyenducthanh04" target="_blank" rel="noopener noreferrer">
+            <Link href="https://github.com/ducthanhnguyen04" target="_blank" rel="noopener noreferrer">
               <Github className="h-6 w-6 text-muted-foreground hover:text-foreground transition-colors" />
             </Link>
           </motion.div>

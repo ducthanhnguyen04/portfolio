@@ -36,8 +36,8 @@ export const translations = {
     
     // Hero
     greeting: "Hi, I'm",
-    role: "Software Developer | University Dai Nam",
-    bio: "I'm an Information Technology student and this is my website created to store some information about me.",
+    role: "Software Developer | Dayeh University",
+    bio: "I'm an Information Technology student.",
     contactMe: "Contact Me",
     viewProjects: "View Projects",
     
@@ -75,8 +75,8 @@ export const translations = {
     
     // Hero
     greeting: "Xin chào, tôi là",
-    role: "Lập trình viên | Đại học Đại Nam",
-    bio: "Tôi là sinh viên Công nghệ Thông tin và đây là trang web của tôi được tạo ra để lưu trữ một số thông tin về bản thân.",
+    role: "Lập trình viên | Đại học Đại Diệp",
+    bio: "Tôi là sinh viên Công nghệ Thông tin.",
     contactMe: "Liên hệ với tôi",
     viewProjects: "Xem dự án",
     
@@ -111,7 +111,7 @@ export const translations = {
     contact: '聯繫',
     
     greeting: "你好，我是",
-    role: "軟體開發人員 | 大南大學",
+    role: "軟體開發人員 | 大葉大學",
     bio: "我是一名資訊科技學生，這是我創建的網站，用來存儲一些關於我的信息。",
     contactMe: "聯繫我",
     viewProjects: "查看專案",

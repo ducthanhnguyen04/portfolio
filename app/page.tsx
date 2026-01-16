@@ -30,18 +30,6 @@ export default function Home() {
           <Experience />
         </section>
       </FadeUp>
-      
-      {/* Commented out achievements section
-      <FadeUp delay={0.2}>
-        <section id="achievements" className="py-16 bg-muted/50 -mx-4 px-4">
-          <div className="container mx-auto">
-            <h2 className="text-3xl font-bold mb-10 text-center">Achievements & Activities</h2>
-            <Achievements />
-          </div>
-        </section>
-      </FadeUp>
-      */}
-      
       <FadeUp delay={0.3}>
         <section id="projects" className="py-16">
           <h2 className="text-3xl font-bold mb-10 text-center">{t.projectsTitle}</h2>
