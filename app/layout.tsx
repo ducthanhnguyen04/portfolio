@@ -11,6 +11,9 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'Nguyen Duc Thanh | Portfolio',
   description: 'My professional portfolio showcasing my work and experience',
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({

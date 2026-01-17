@@ -2,7 +2,6 @@
 
 import Hero from '@/components/hero';
 import Experience from '@/components/experience';
-// import Achievements from '@/components/achievements';
 import Projects from '@/components/projects';
 import Contact from '@/components/contact';
 import { FadeUp } from '@/components/animations';

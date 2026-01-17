@@ -16,13 +16,13 @@ export default function Footer() {
           </p>
         </div>
         <div className="flex items-center space-x-4">
-          <Link href="https://github.com" target="_blank" rel="noopener noreferrer">
+          <Link href="https://github.com/ducthanhnguyen04" target="_blank" rel="noopener noreferrer">
             <Github className="h-5 w-5 text-muted-foreground hover:text-foreground transition-colors" />
           </Link>
-          <Link href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.facebook.com/nguyen.duc.thanh.0810/" target="_blank" rel="noopener noreferrer">
             <Facebook className="h-5 w-5 text-muted-foreground hover:text-foreground transition-colors" />
           </Link>
-          <Link href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+          <Link href="https://www.instagram.com/ndt_it/" target="_blank" rel="noopener noreferrer">
             <Instagram className="h-5 w-5 text-muted-foreground hover:text-foreground transition-colors" />
           </Link>
         </div>
